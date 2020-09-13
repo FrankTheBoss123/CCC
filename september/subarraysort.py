@@ -1,4 +1,4 @@
-#i don't know how to do this question
+
 def subarraysort(array):
     start = -1
     end = -1
